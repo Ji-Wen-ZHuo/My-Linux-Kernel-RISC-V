@@ -1,0 +1,7 @@
+2021/12/30 03:50:45 Micro started
+2021/12/30 03:50:48 real runtime file syntax
+2021/12/30 03:51:54 vm.c vm.c
+2021/12/30 04:03:05 proc.c proc.c
+2021/12/30 04:03:35 proc.c proc.c
+2021/12/30 04:08:51 vm.c vm.c
+2021/12/30 04:09:07 proc.c proc.c

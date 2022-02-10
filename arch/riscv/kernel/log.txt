@@ -1,0 +1,13 @@
+2021/11/08 05:03:42 Micro started
+2021/11/08 05:03:46 real runtime file syntax
+2021/11/08 05:07:31 clock.c clock.c
+2021/11/08 05:11:40 clock.c clock.c
+2021/11/08 05:58:23 trap.c trap.c
+2021/11/08 06:00:08 real runtime file syntax
+2021/11/08 06:02:05 trap.c trap.c
+2021/11/08 10:33:09 trap.c trap.c
+2021/11/08 11:28:57 trap.c trap.c
+2021/11/08 11:29:39 main.c main.c
+2021/11/08 11:30:18 test.c test.c
+2021/11/08 11:30:48 test.c test.c
+2021/11/08 11:31:25 test.c test.c
