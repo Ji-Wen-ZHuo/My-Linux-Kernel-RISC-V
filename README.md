@@ -1,4 +1,4 @@
-# My Linux Kernel
+# My Linux Kernel (RISC-V)
 
 This is a simple linux kernel on RISC-V. This kernel completed the exception modula, process manager and virtual memory manager.
 
